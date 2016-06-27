@@ -91,7 +91,7 @@ def find_in_response(obj, condition, path=[]):
 
 class Horizon(object):
 
-    version = '0.0.1'
+    version = '0.2'
     asteroids_neows_version = '1'
     mars_rovers_photos_version = '1'
     rovers = ['Curiosity', 'Opportunity', 'Spirit']

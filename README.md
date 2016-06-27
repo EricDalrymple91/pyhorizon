@@ -1,4 +1,4 @@
-# Pyhorizon v0.1
+# Pyhorizon v0.2
 
 Pyhorizon is a thin Python wrapper for the [NASA API](https://api.nasa.gov/index.html). As of 6/28/2016, APOD, Asteroids-NeoWs, Earth, Mars rover photos, patents and sounds are supported in full. After sending a 
 request, you can check your rate limit by calling a built in attribute to see how many requests you have left. Pyhorizon allows you to easily search NASA data and have a great time doing so.
@@ -230,7 +230,11 @@ apollo.image_walk(response, directory='C:\Users\TestUser\Photos', name='mars bar
 
 # Changelog
 
-### 0.1 (2016-6-26)
+### 0.2 (2016-6-26)
+
+- General reformatting
+
+### 0.1 (2016-6-23)
 
 - Initial release.
 
