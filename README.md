@@ -10,7 +10,7 @@ request, you can check your rate limit by calling a built in attribute to see ho
 	+ [Astronomy Picture of the Day](#astronomy-picture-of-the-day)
 	+ [Asteroids](#asteroids)
 	+ [Earth](#earth)
-	+ [Mars Rovers Photos](#mars-rover-photos)
+	+ [Mars Rover Photos](#mars-rover-photos)
 	+ [Patents](#patents)
 	+ [Sounds](#sounds)
 	+ [Save Image URLs](#save-image-urls)
