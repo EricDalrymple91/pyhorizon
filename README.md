@@ -67,7 +67,7 @@ Examples:
 print(apollo.apod())
 
 # Lookup a particular date
-print(apollo.apod(date='205-8-27'))
+print(apollo.apod(date='2015-8-27'))
 
 # Lookup a particular date and return hd imagery if possible
 print(apollo.apod(date='2015-01-04', hd=True))
